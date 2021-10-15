@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "405900996987",
+    "firebase_url": "https://libary-fe6af-default-rtdb.firebaseio.com",
+    "project_id": "libary-fe6af",
+    "storage_bucket": "libary-fe6af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405900996987:android:2910f4d2e53bcc8ce84dde",
+        "android_client_info": {
+          "package_name": "com.example.libaryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405900996987-eta4jg03v7d1elldbkulvorc4lfeqkle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADP7znS1ORrK-s-6mLq1rZDtLfm7WOBC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405900996987-eta4jg03v7d1elldbkulvorc4lfeqkle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
